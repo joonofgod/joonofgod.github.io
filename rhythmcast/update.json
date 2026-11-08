@@ -1,0 +1,17 @@
+{
+  "_comment": "리듬예보 새 버전 안내 시트의 바뀐 내용 문구 (앱 lib/services/app_update.dart가 읽음). version = 새 아이폰 버전 이름, androidVersionCode = 새 Play versionCode보다 크지 않은 값. 설치된 버전보다 새로울 때만 문구를 보여 준다.",
+  "version": "1.0.1",
+  "androidVersionCode": 6,
+  "notes": {
+    "ko": ["운세 화면 그림이 새 옷을 입었어요", "날짜가 바뀌면 운세와 리듬이 바로 새로 고쳐져요", "새 버전이 나오면 앱에서 바로 알려 드려요"],
+    "en": ["The fortune screen got a fresh new look", "Your fortune and rhythm refresh right when the date changes", "We'll let you know in the app when a new version is out"],
+    "ja": ["運勢画面のイラストが新しくなりました", "日付が変わると運勢とリズムがすぐ更新されます", "新しいバージョンが出たらアプリでお知らせします"],
+    "vi": ["Hình ảnh màn hình vận may đã được làm mới", "Vận may và nhịp sinh học cập nhật ngay khi sang ngày mới", "Khi có phiên bản mới, ứng dụng sẽ báo cho bạn ngay"],
+    "zh": ["运势页面的插图焕然一新", "日期一变，运势和节律马上更新", "有新版本时会在应用内第一时间通知你"],
+    "zh_Hant": ["運勢頁面的插圖煥然一新", "日期一變，運勢和節律馬上更新", "有新版本時會在App內第一時間通知你"],
+    "es": ["La pantalla de la fortuna estrena nuevas ilustraciones", "Tu fortuna y tu ritmo se actualizan en cuanto cambia el día", "Te avisaremos en la app cuando haya una nueva versión"],
+    "pt": ["A tela da sorte ganhou ilustrações novas", "Sua sorte e seu ritmo se atualizam assim que o dia muda", "Vamos avisar no app quando sair uma nova versão"],
+    "id": ["Gambar di layar ramalan tampil dengan wajah baru", "Ramalan dan ritme langsung diperbarui saat tanggal berganti", "Kami akan memberi tahu di aplikasi saat ada versi baru"],
+    "th": ["ภาพในหน้าดวงชะตามีโฉมใหม่แล้ว", "ดวงและจังหวะจะอัปเดตทันทีเมื่อเปลี่ยนวัน", "เมื่อมีเวอร์ชันใหม่ เราจะแจ้งในแอปทันที"]
+  }
+}
