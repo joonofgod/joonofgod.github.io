@@ -1,7 +1,7 @@
 {
   "_comment": "리듬예보 새 버전 안내 시트의 바뀐 내용 문구 (앱 lib/services/app_update.dart가 읽음). version = 새 아이폰 버전 이름, androidVersionCode = 새 Play versionCode보다 크지 않은 값. 설치된 버전보다 새로울 때만 문구를 보여 준다.",
   "version": "1.0.1",
-  "androidVersionCode": 6,
+  "androidVersionCode": 7,
   "notes": {
     "ko": ["운세 화면 그림이 새 옷을 입었어요", "날짜가 바뀌면 운세와 리듬이 바로 새로 고쳐져요", "새 버전이 나오면 앱에서 바로 알려 드려요"],
     "en": ["The fortune screen got a fresh new look", "Your fortune and rhythm refresh right when the date changes", "We'll let you know in the app when a new version is out"],
