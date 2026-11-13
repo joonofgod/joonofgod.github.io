@@ -3,15 +3,35 @@
   "version": "1.0.1",
   "androidVersionCode": 8,
   "notes": {
-    "ko": ["신호가 조금 약해도 측정 결과를 대략적으로 보여 드려요", "운세 화면 그림이 새 옷을 입었어요", "날짜가 바뀌면 운세와 리듬이 바로 새로 고쳐져요", "새 버전이 나오면 앱에서 바로 알려 드려요"],
-    "en": ["Even with a weak signal, you now get an approximate result", "The fortune screen got a fresh new look", "Your fortune and rhythm refresh right when the date changes", "We'll let you know in the app when a new version is out"],
-    "ja": ["信号が少し弱くても、おおよその測定結果をお見せします", "運勢画面のイラストが新しくなりました", "日付が変わると運勢とリズムがすぐ更新されます", "新しいバージョンが出たらアプリでお知らせします"],
-    "vi": ["Dù tín hiệu hơi yếu, bạn vẫn nhận được kết quả ước tính", "Hình ảnh màn hình vận may đã được làm mới", "Vận may và nhịp sinh học cập nhật ngay khi sang ngày mới", "Khi có phiên bản mới, ứng dụng sẽ báo cho bạn ngay"],
-    "zh": ["信号稍弱时也会给出大致的测量结果", "运势页面的插图焕然一新", "日期一变，运势和节律马上更新", "有新版本时会在应用内第一时间通知你"],
-    "zh_Hant": ["訊號稍弱時也會給出大約的測量結果", "運勢頁面的插圖煥然一新", "日期一變，運勢和節律馬上更新", "有新版本時會在App內第一時間通知你"],
-    "es": ["Aunque la señal sea algo débil, verás un resultado aproximado", "La pantalla de la fortuna estrena nuevas ilustraciones", "Tu fortuna y tu ritmo se actualizan en cuanto cambia el día", "Te avisaremos en la app cuando haya una nueva versión"],
-    "pt": ["Mesmo com sinal um pouco fraco, você vê um resultado aproximado", "A tela da sorte ganhou ilustrações novas", "Sua sorte e seu ritmo se atualizam assim que o dia muda", "Vamos avisar no app quando sair uma nova versão"],
-    "id": ["Meski sinyal agak lemah, kamu tetap dapat hasil perkiraan", "Gambar di layar ramalan tampil dengan wajah baru", "Ramalan dan ritme langsung diperbarui saat tanggal berganti", "Kami akan memberi tahu di aplikasi saat ada versi baru"],
-    "th": ["แม้สัญญาณจะอ่อนไปบ้าง ก็ยังได้ผลวัดโดยประมาณ", "ภาพในหน้าดวงชะตามีโฉมใหม่แล้ว", "ดวงและจังหวะจะอัปเดตทันทีเมื่อเปลี่ยนวัน", "เมื่อมีเวอร์ชันใหม่ เราจะแจ้งในแอปทันที"]
+    "ko": [
+      "앱이 더 안정적으로 동작하도록 다듬었어요"
+    ],
+    "en": [
+      "Small fixes to make the app run more smoothly"
+    ],
+    "ja": [
+      "アプリがより安定して動くよう改善しました"
+    ],
+    "vi": [
+      "Cải thiện để ứng dụng chạy ổn định hơn"
+    ],
+    "zh": [
+      "优化了应用的稳定性"
+    ],
+    "zh_Hant": [
+      "優化了App的穩定性"
+    ],
+    "es": [
+      "Pequeñas mejoras para que la app funcione con más estabilidad"
+    ],
+    "pt": [
+      "Pequenas melhorias para o app funcionar com mais estabilidade"
+    ],
+    "id": [
+      "Perbaikan kecil agar aplikasi berjalan lebih stabil"
+    ],
+    "th": [
+      "ปรับปรุงให้แอปทำงานได้เสถียรขึ้น"
+    ]
   }
 }
