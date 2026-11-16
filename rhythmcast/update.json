@@ -1,37 +1,57 @@
 {
   "_comment": "리듬예보 새 버전 안내 시트의 바뀐 내용 문구 (앱 lib/services/app_update.dart가 읽음). version = 새 아이폰 버전 이름, androidVersionCode = 새 Play versionCode보다 크지 않은 값. 설치된 버전보다 새로울 때만 문구를 보여 준다.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "androidVersionCode": 10,
   "notes": {
     "ko": [
-      "광고가 더 잘 보이도록 다듬고, 앱을 더 안정적으로 고쳤어요"
+      "운세 화면에서 지금 보고 있는 운세를 이미지로 공유할 수 있어요.",
+      "처음 정보를 입력할 때 생년월일을 고르면 키보드가 다시 올라와 시작 버튼을 가리던 문제를 고쳤어요.",
+      "손가락 측정이 메인 카메라 렌즈를 쓰도록 개선했어요."
     ],
     "en": [
-      "Improved ad display and made the app more stable"
+      "Share the fortune you're viewing as an image from the Fortune tab.",
+      "Fixed the keyboard reopening and hiding the Get started button after choosing your date of birth.",
+      "Finger measurement now uses the main camera lens."
     ],
     "ja": [
-      "広告の表示を改善し、アプリの安定性を高めました"
+      "運勢画面で、今見ている運勢を画像でシェアできるようになりました。",
+      "初回入力で生年月日を選ぶとキーボードが再び開き、開始ボタンが隠れる問題を修正しました。",
+      "指での測定でメインカメラのレンズを使うよう改善しました。"
     ],
     "vi": [
-      "Cải thiện hiển thị quảng cáo và giúp ứng dụng ổn định hơn"
+      "Giờ bạn có thể chia sẻ quẻ vận may đang xem dưới dạng hình ảnh trong tab Vận may.",
+      "Đã sửa lỗi bàn phím bật lại và che nút Bắt đầu sau khi chọn ngày sinh.",
+      "Đo bằng ngón tay giờ dùng ống kính camera chính."
     ],
     "zh": [
-      "优化了广告显示，应用运行更稳定"
+      "现在可以在运势页面把正在查看的运势分享为图片。",
+      "修复了首次填写信息时选择生日后键盘再次弹出、挡住开始按钮的问题。",
+      "手指测量现在使用主摄像头镜头。"
     ],
     "zh_Hant": [
-      "改善了廣告顯示，App 運作更穩定"
+      "現在可以在運勢頁面把正在查看的運勢分享為圖片。",
+      "修正了首次填寫資料時選擇生日後鍵盤再次彈出、擋住開始按鈕的問題。",
+      "手指測量現在使用主鏡頭。"
     ],
     "es": [
-      "Mejoramos la visualización de anuncios y la estabilidad de la app"
+      "Ahora puedes compartir como imagen la fortuna que estás viendo en la pestaña Fortuna.",
+      "Corregimos que el teclado volviera a abrirse y tapara el botón Empezar tras elegir la fecha de nacimiento.",
+      "La medición con el dedo ahora usa la lente de la cámara principal."
     ],
     "pt": [
-      "Melhoramos a exibição de anúncios e a estabilidade do app"
+      "Agora você pode compartilhar como imagem a sorte que está vendo na aba Sorte.",
+      "Corrigimos o teclado que reabria e escondia o botão Começar depois de escolher a data de nascimento.",
+      "A medição com o dedo agora usa a lente da câmera principal."
     ],
     "id": [
-      "Tampilan iklan lebih baik dan aplikasi lebih stabil"
+      "Kini kamu bisa membagikan ramalan yang sedang dilihat sebagai gambar dari tab Ramalan.",
+      "Memperbaiki keyboard yang muncul lagi dan menutupi tombol Mulai setelah memilih tanggal lahir.",
+      "Pengukuran dengan jari kini memakai lensa kamera utama."
     ],
     "th": [
-      "ปรับปรุงการแสดงโฆษณาและทำให้แอปเสถียรขึ้น"
+      "แชร์ดวงที่กำลังดูอยู่เป็นรูปภาพได้จากแท็บดวง",
+      "แก้ปัญหาคีย์บอร์ดเด้งขึ้นมาอีกครั้งและบังปุ่มเริ่มต้นหลังเลือกวันเกิด",
+      "การวัดด้วยนิ้วใช้เลนส์กล้องหลักแล้ว"
     ]
   }
 }
