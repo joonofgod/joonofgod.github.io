@@ -1,7 +1,7 @@
 {
   "_comment": "리듬예보 새 버전 안내 시트의 바뀐 내용 문구 (앱 lib/services/app_update.dart가 읽음). version = 새 아이폰 버전 이름, androidVersionCode = 새 Play versionCode보다 크지 않은 값. 설치된 버전보다 새로울 때만 문구를 보여 준다.",
   "version": "1.0.4",
-  "androidVersionCode": 10,
+  "androidVersionCode": 17,
   "notes": {
     "ko": [
       "운세 화면에서 지금 보고 있는 운세를 이미지로 공유할 수 있어요.",
