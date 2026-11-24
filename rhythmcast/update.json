@@ -1,57 +1,57 @@
 {
   "_comment": "리듬예보 새 버전 안내 시트의 바뀐 내용 문구 (앱 lib/services/app_update.dart가 읽음). version = 새 아이폰 버전 이름, androidVersionCode = 새 Play versionCode보다 크지 않은 값. 설치된 버전보다 새로울 때만 문구를 보여 준다.",
-  "version": "1.0.7",
-  "androidVersionCode": 21,
+  "version": "1.0.8",
+  "androidVersionCode": 22,
   "notes": {
     "ko": [
-      "손가락 측정 안내를 더 알기 쉽게 다듬었어요.",
-      "카메라 렌즈가 여러 개인 폰에서 잘 인식되지 않으면 다른 렌즈에 대 보도록 알려 줘요.",
-      "앱 성능과 안정성을 개선했어요."
+      "홈의 이번 주 리듬 예보 날씨 아이콘을 7단계로 더 정확하게 나눴어요.",
+      "리듬이 낮은 날은 구름, 조심할 리듬이 겹친 날은 해 대신 다른 아이콘이 나와요.",
+      "운세 탭 이번 달에 큰 변화 없이 잔잔한 달을 위한 새 문구를 더했어요."
     ],
     "en": [
-      "Clearer guidance for finger measurement.",
-      "If your phone has several camera lenses and your finger isn't detected, the app now suggests trying another lens.",
-      "Improved app performance and stability."
+      "The weather icons in This week's rhythm forecast on Home now use 7 more accurate levels.",
+      "Low-rhythm days show clouds, and days with several critical rhythms no longer show a sun.",
+      "New messages in the Fortune tab for calm months with no big ups or downs."
     ],
     "ja": [
-      "指での測定の案内をよりわかりやすくしました。",
-      "カメラのレンズが複数ある端末でうまく認識されないときは、別のレンズを試すよう案内します。",
-      "アプリのパフォーマンスと安定性を改善しました。"
+      "ホームの「今週のリズム予報」の天気アイコンを7段階でより正確に分けました。",
+      "リズムが低い日は雲、注意したいリズムが重なる日は太陽以外のアイコンが表示されます。",
+      "運勢タブの「今月」に、大きな波のない穏やかな月のための新しいメッセージを追加しました。"
     ],
     "vi": [
-      "Hướng dẫn đo bằng ngón tay rõ ràng, dễ hiểu hơn.",
-      "Nếu điện thoại có nhiều ống kính và chưa nhận ra ngón tay, ứng dụng sẽ gợi ý bạn thử ống kính khác.",
-      "Cải thiện hiệu năng và độ ổn định của ứng dụng."
+      "Biểu tượng thời tiết trong Dự báo nhịp tuần này ở Trang chủ giờ chia thành 7 mức chính xác hơn.",
+      "Ngày có nhịp thấp hiển thị mây, và ngày có nhiều nhịp ở ngày nguy hiểm sẽ không còn hiển thị mặt trời.",
+      "Thêm lời nhắn mới trong tab Vận may cho những tháng êm đềm, không có nhiều thăng trầm."
     ],
     "zh": [
-      "优化了手指测量的提示，更容易理解。",
-      "在有多个摄像头镜头的手机上识别不佳时，会提示你换一个镜头试试。",
-      "提升了应用的性能和稳定性。"
+      "首页「本周节律预报」的天气图标改为更准确的 7 个等级。",
+      "节律偏低的日子显示云朵，多个节律处于关键日时不再显示太阳。",
+      "运势页「本月」新增了适合平稳月份的提示语。"
     ],
     "zh_Hant": [
-      "優化了手指測量的提示，更容易理解。",
-      "在有多個鏡頭的手機上辨識不佳時，會提示你換一個鏡頭試試。",
-      "提升了 App 的效能和穩定性。"
+      "首頁「本週節律預報」的天氣圖示改為更準確的 7 個等級。",
+      "節律偏低的日子顯示雲朵，多個節律處於關鍵日時不再顯示太陽。",
+      "運勢頁「本月」新增了適合平穩月份的提示語。"
     ],
     "es": [
-      "Instrucciones más claras para la medición con el dedo.",
-      "Si tu teléfono tiene varias lentes y no detecta tu dedo, la app te sugiere probar con otra lente.",
-      "Mejoramos el rendimiento y la estabilidad de la app."
+      "Los íconos del clima del Pronóstico de ritmo de la semana en Inicio ahora usan 7 niveles más precisos.",
+      "Los días de ritmo bajo muestran nubes, y los días con varios ritmos críticos ya no muestran sol.",
+      "Nuevos mensajes en la pestaña Fortuna para los meses tranquilos, sin grandes altibajos."
     ],
     "pt": [
-      "Instruções mais claras para a medição com o dedo.",
-      "Se o seu celular tiver várias lentes e o dedo não for detectado, o app sugere tentar outra lente.",
-      "Melhoramos o desempenho e a estabilidade do app."
+      "Os ícones de clima da Previsão de ritmo da semana na Início agora usam 7 níveis mais precisos.",
+      "Dias de ritmo baixo mostram nuvens, e dias com vários ritmos críticos não mostram mais sol.",
+      "Novas mensagens na aba Sorte para meses tranquilos, sem grandes altos e baixos."
     ],
     "id": [
-      "Petunjuk pengukuran dengan jari kini lebih jelas.",
-      "Jika ponselmu punya beberapa lensa kamera dan jari tidak terdeteksi, aplikasi menyarankan mencoba lensa lain.",
-      "Peningkatan performa dan stabilitas aplikasi."
+      "Ikon cuaca di Ramalan ritme minggu ini pada Beranda kini memakai 7 tingkat yang lebih akurat.",
+      "Hari dengan ritme rendah menampilkan awan, dan hari dengan beberapa ritme kritis tidak lagi menampilkan matahari.",
+      "Pesan baru di tab Ramalan untuk bulan yang tenang tanpa naik-turun besar."
     ],
     "th": [
-      "ปรับคำแนะนำการวัดด้วยนิ้วให้เข้าใจง่ายขึ้น",
-      "ถ้าโทรศัพท์มีเลนส์กล้องหลายตัวและตรวจไม่พบนิ้ว แอปจะแนะนำให้ลองเลนส์อื่น",
-      "ปรับปรุงประสิทธิภาพและความเสถียรของแอป"
+      "ไอคอนสภาพอากาศในพยากรณ์จังหวะสัปดาห์นี้ที่หน้าหลักแบ่งเป็น 7 ระดับที่แม่นยำขึ้น",
+      "วันที่จังหวะต่ำจะแสดงเมฆ และวันที่มีหลายจังหวะอยู่ในวันวิกฤตจะไม่แสดงดวงอาทิตย์อีกต่อไป",
+      "เพิ่มข้อความใหม่ในแท็บดวงสำหรับเดือนที่สงบ ไม่มีขึ้นลงมาก"
     ]
   }
 }
