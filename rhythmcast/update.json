@@ -1,57 +1,47 @@
 {
   "_comment": "리듬예보 새 버전 안내 시트의 바뀐 내용 문구 (앱 lib/services/app_update.dart가 읽음). version = 새 아이폰 버전 이름, androidVersionCode = 새 Play versionCode보다 크지 않은 값. 설치된 버전보다 새로울 때만 문구를 보여 준다.",
-  "version": "1.0.9",
-  "androidVersionCode": 23,
+  "version": "1.0.10",
+  "androidVersionCode": 24,
   "notes": {
     "ko": [
-      "안드로이드에서 뒤로가기를 한 번 눌러도 앱이 바로 꺼지지 않아요. 한 번 더 누르면 종료돼요.",
-      "닉네임을 최대 20자까지 쓸 수 있어요. 2자 미만이나 ㄱ·ㅏ 같은 낱자는 쓸 수 없어요.",
-      "정보를 입력하다가 성별을 고르거나 빈 곳을 누르면 키보드가 내려가요."
+      "아침 알림을 누르면 바로 측정 화면이 열려요.",
+      "청소년 사용자의 개인정보 보호를 강화했어요."
     ],
     "en": [
-      "On Android, the app no longer closes on a single Back press. Press Back again to exit.",
-      "Nicknames can now be up to 20 characters. Nicknames under 2 characters or with single Korean letters like ㄱ or ㅏ are no longer allowed.",
-      "While entering your info, the keyboard now closes when you pick a gender or tap an empty area."
+      "Tapping the morning reminder now opens the measurement screen right away.",
+      "Stronger privacy protection for younger users."
     ],
     "ja": [
-      "Androidで「戻る」を1回押しただけではアプリが終了しないようにしました。もう一度押すと終了します。",
-      "ニックネームを最大20文字まで入力できるようにしました。2文字未満や、ㄱ・ㅏのようなハングルの単独字母は使えません。",
-      "情報の入力中に性別を選んだり空いている所をタップしたりすると、キーボードが閉じるようになりました。"
+      "朝の通知をタップすると、すぐに測定画面が開くようになりました。",
+      "若い利用者のプライバシー保護を強化しました。"
     ],
     "vi": [
-      "Trên Android, ứng dụng không còn thoát ngay khi nhấn Quay lại một lần. Nhấn Quay lại lần nữa để thoát.",
-      "Biệt danh giờ có thể dài tối đa 20 ký tự. Không còn cho phép biệt danh dưới 2 ký tự hoặc có chữ Hàn rời như ㄱ, ㅏ.",
-      "Khi nhập thông tin, bàn phím sẽ tự đóng khi bạn chọn giới tính hoặc chạm vào vùng trống."
+      "Chạm vào thông báo buổi sáng giờ sẽ mở ngay màn hình đo.",
+      "Tăng cường bảo vệ quyền riêng tư cho người dùng chưa đủ tuổi."
     ],
     "zh": [
-      "在安卓上按一次返回键不会直接退出应用，再按一次才会退出。",
-      "昵称最多可输入 20 个字。少于 2 个字或含有 ㄱ、ㅏ 等单独韩文字母的昵称将无法使用。",
-      "填写信息时，选择性别或点击空白处后键盘会自动收起。"
+      "点击早晨提醒通知后，会直接打开测量页面。",
+      "加强了对未成年用户的隐私保护。"
     ],
     "zh_Hant": [
-      "在 Android 上按一次返回鍵不會直接關閉 App，再按一次才會關閉。",
-      "暱稱最多可輸入 20 個字。少於 2 個字或含有 ㄱ、ㅏ 等單獨韓文字母的暱稱將無法使用。",
-      "填寫資料時，選擇性別或點一下空白處後，鍵盤會自動收起。"
+      "點一下早晨提醒通知，就會直接開啟測量畫面。",
+      "加強了對未成年使用者的隱私保護。"
     ],
     "es": [
-      "En Android, la app ya no se cierra al pulsar Atrás una sola vez. Pulsa Atrás otra vez para salir.",
-      "Los apodos ahora pueden tener hasta 20 caracteres. Ya no se permiten apodos de menos de 2 caracteres ni con letras coreanas sueltas como ㄱ o ㅏ.",
-      "Al ingresar tus datos, el teclado ahora se cierra cuando eliges el género o tocas un área vacía."
+      "Al tocar el recordatorio de la mañana, ahora se abre directamente la pantalla de medición.",
+      "Mayor protección de la privacidad para usuarios menores de edad."
     ],
     "pt": [
-      "No Android, o app não fecha mais com um único toque em Voltar. Toque em Voltar novamente para sair.",
-      "Os apelidos agora podem ter até 20 caracteres. Não são mais permitidos apelidos com menos de 2 caracteres ou com letras coreanas soltas como ㄱ ou ㅏ.",
-      "Ao preencher seus dados, o teclado agora fecha quando você escolhe o gênero ou toca em uma área vazia."
+      "Ao tocar no lembrete da manhã, a tela de medição agora abre diretamente.",
+      "Mais proteção de privacidade para usuários menores de idade."
     ],
     "id": [
-      "Di Android, aplikasi tidak langsung tertutup saat menekan Kembali sekali. Tekan Kembali sekali lagi untuk keluar.",
-      "Nama panggilan kini bisa sampai 20 karakter. Nama panggilan kurang dari 2 karakter atau berisi huruf Korea tunggal seperti ㄱ atau ㅏ tidak lagi diizinkan.",
-      "Saat mengisi data, keyboard kini tertutup ketika kamu memilih jenis kelamin atau mengetuk area kosong."
+      "Mengetuk pengingat pagi kini langsung membuka layar pengukuran.",
+      "Perlindungan privasi yang lebih kuat untuk pengguna di bawah umur."
     ],
     "th": [
-      "บน Android แอปจะไม่ปิดทันทีเมื่อกดย้อนกลับครั้งเดียว กดย้อนกลับอีกครั้งเพื่อออก",
-      "ตั้งชื่อเล่นได้สูงสุด 20 ตัวอักษร และไม่สามารถใช้ชื่อเล่นที่สั้นกว่า 2 ตัวอักษรหรือมีอักษรเกาหลีเดี่ยว ๆ อย่าง ㄱ หรือ ㅏ ได้อีก",
-      "ระหว่างกรอกข้อมูล แป้นพิมพ์จะปิดเมื่อเลือกเพศหรือแตะพื้นที่ว่าง"
+      "แตะการแจ้งเตือนตอนเช้าแล้วจะเปิดหน้าการวัดได้ทันที",
+      "เพิ่มการปกป้องความเป็นส่วนตัวสำหรับผู้ใช้ที่อายุยังน้อย"
     ]
   }
 }
